@@ -1,6 +1,6 @@
 # Trends-in-Labor Measures
 
-This is an initial exploration of trends in labor measured at the intensive (hours worked) and extensive (employment status) margin over time, across countries, and versus other potentially relevant variables, such as public sector size, job quality, and job skill mismatch.
+This is an initial exploration of trends in labor, by gender and measured both at the intensive (hours worked) and extensive (employment status) margin. We explore potential trends over time, across countries and regions, and versus other potentially meaningful variables, such as public sector size, job quality, and job skill mismatch.
 
 All data used here is collected and made available by OECD Statistics at https://stats.oecd.org under the sections detailed below for the 35 OECD member countries:
 
