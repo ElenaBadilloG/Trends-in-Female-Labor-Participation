@@ -1,4 +1,4 @@
-# Trends-in-LFP
+# Trends-in-Labor Measures
 
 This is an initial exploration of trends in labor measured at the intensive (hours worked) and extensive (employment status) margin over time, across countries, and versus other potentially relevant variables, such as public sector size, job quality, and job skill mismatch.
 
