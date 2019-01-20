@@ -1,7 +1,8 @@
 # Trends-in-LFP
 
-This is an initial exploration of trends in labor force participation rates (LFP) over time and across countries.
-All data is collected and made available by OECD Statistics at https://stats.oecd.org for the 35 OECD member countries:
+This is an initial exploration of trends in labor measured at the intensive (hours worked) and extensive (employment status) margin over time, across countries, and versus other potentially relevant variables, such as public sector size, job quality, and job skill mismatch.
+
+All data used here is collected and made available by OECD Statistics at https://stats.oecd.org under the sections detailed below for the 35 OECD member countries:
 
 Australia, Austria, Belgium, Canada, Costa Rica, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Israel, Italy, Japan, Korea, Latvia, Lithuania, Luxembourg, Mexico,  Netherlands, New Zealand, Norway, Portugal, Russia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, and the United States.
 
