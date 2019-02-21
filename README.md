@@ -1,4 +1,4 @@
-# Trends-in-Labor Particpation Measures
+# Trends-in-Labor Participation Measures
 
 This is an initial exploration of trends in labor, by gender and measured both at the intensive (hours worked) and extensive (employment status) margin. We explore potential trends over time, across countries and regions, and versus other potentially meaningful variables, such as public sector size, job quality, and job skill mismatch.
 
